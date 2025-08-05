@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.square {
+    background-color: lightblue;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    color: darkblue;
+}
+ button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+ }
